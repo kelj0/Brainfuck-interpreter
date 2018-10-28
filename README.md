@@ -7,7 +7,7 @@ Interprets given brainfuck code
 - `$ g++ main.cpp`
 - `$ ./a.out`
 
-![alt text](https://i.imgur.com/FukSzfe.mp4)
+![alt text](https://media.giphy.com/media/QJH9HZJBbdzQmpmTm8/giphy.gif)
 
 
 ### TODO:
